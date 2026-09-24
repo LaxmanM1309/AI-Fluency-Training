@@ -1,0 +1,5 @@
+College Course Fee List 2026
+
+CS101 - Programming Fundamentals - Rs. 12000
+AI202 - Machine Learning - Rs. 18000
+DS303 - Data Engineering - Rs. 15000
